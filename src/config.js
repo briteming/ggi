@@ -1,6 +1,6 @@
-export const clientId= '3bffa5a5593d3f112758'
-export const clientSecret= '1147929f2267cfcb5abb1e27e91a98a47316c557'
-export const owner = 'guanpengchn'
+export const clientId= 'Ov23liq0VjxWPMAVb8Ig'
+export const clientSecret= 'd9ca3c22bf57be1920a5cf47c4baa7c960981d36'
+export const owner = 'briteming'
 
 export const nav = [
   { 
@@ -34,22 +34,22 @@ export const nav = [
 ]
 
 export const article = {
-  repo:'guanpengchn.github.io',
+  repo:'ggi',
   label:'article'
 }
 
 export const study = {
-  repo:'guanpengchn.github.io',
+  repo:'ggi',
   label:'study'
 }
 
 export const algorithm = {
-  repo:'guanpengchn.github.io',
+  repo:'ggi',
   label:'algorithm'
 }
 
 export const note = {
-  repo:'guanpengchn.github.io',
+  repo:'ggi',
   label:'note'
 }
 
